@@ -1,6 +1,6 @@
 import pywhatkit as kit
 
-kit.sendwhatmsg("+201014575326", "This is a scheduled message at 1 : 24 using python , if you're reading then a7a",
+kit.sendwhatmsg("+201014575326", "This is a scheduled message at 1 : 24 using python , if you're reading then thanks",
                 1, 35
                 , 10
                 )
