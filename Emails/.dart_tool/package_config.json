@@ -1,0 +1,86 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "archive",
+      "rootUri": "file:///home/ashour/.pub-cache/hosted/pub.dartlang.org/archive-2.0.13",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///home/ashour/.pub-cache/hosted/pub.dartlang.org/args-1.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///home/ashour/.pub-cache/hosted/pub.dartlang.org/charcode-1.2.0-nullsafety.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///home/ashour/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0-nullsafety.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///home/ashour/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "1.17"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///home/ashour/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
+    },
+    {
+      "name": "docx_template",
+      "rootUri": "file:///home/ashour/.pub-cache/hosted/pub.dartlang.org/docx_template-0.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///home/ashour/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0-nullsafety.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///home/ashour/.pub-cache/hosted/pub.dartlang.org/path-1.8.0-nullsafety.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///home/ashour/.pub-cache/hosted/pub.dartlang.org/petitparser-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///home/ashour/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0-nullsafety.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///home/ashour/.pub-cache/hosted/pub.dartlang.org/xml-4.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "ascc_activities",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2020-11-29T13:31:43.645484Z",
+  "generator": "pub",
+  "generatorVersion": "2.10.0-7.3.beta"
+}
